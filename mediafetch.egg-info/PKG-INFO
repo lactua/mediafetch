@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mediafetch
+Version: 1.1
+Summary: A media fetcher
+Author: lactua
+Author-email: rei.lactua.dsc@gmail.com
+Requires-Dist: requests
+Requires-Dist: pillow
